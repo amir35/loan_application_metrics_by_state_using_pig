@@ -17,3 +17,5 @@ The following calculations are included in the Pig scripts and which are grouped
 Notes: 
 Datasets folder for mock data.
 Scripts folder for Hive and Pig scripts.
+
+Visit http://www.treselle.com/blog/ to find more use cases in Big data, Technology & Integration and QA.
